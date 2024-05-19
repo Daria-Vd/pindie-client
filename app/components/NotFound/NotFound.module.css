@@ -1,5 +1,5 @@
 .box_image {
-    height: calc(100Vh - 310px);
+    height: calc(100vh - 310px);
     position: relative;
     overflow: hidden;
     margin: 5px 10px 0 10px;
@@ -19,7 +19,6 @@
     background-position: center;
     border: 2px solid red;
 }
-
 
 .image {
     height: 100%;

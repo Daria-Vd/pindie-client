@@ -19,5 +19,5 @@ export default function RootLayout({ children }) {
 }
 
 RootLayout.propTypes = {
-    children: PropTypes.object
-}
+    children: PropTypes.node.isRequired
+};
